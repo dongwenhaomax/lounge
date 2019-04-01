@@ -15,6 +15,7 @@ h1 {
 h2 {
   font-size:           130%;
 }
+
 .guarantee{
   border-color:black;
   border-width:1px;
@@ -42,6 +43,7 @@ h2 {
   text-align:center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float:right;
 }
 #elixirs h2{
   color:black;
